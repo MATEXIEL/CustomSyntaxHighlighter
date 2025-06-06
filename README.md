@@ -4,6 +4,8 @@ Bursa Teknik Üniversitesi, Programlama Dilleri dersi kapsamında geliştirilmi�
 
 C benzeri diller ve kodlar için Python tabanlı, gerçek zamanlı syntax vurgulayıcı. Bu uygulama, sözcüksel ve snytax analizi prensiplerini kullanarak GUI'de yazım yapıldığı anda kodu vurgular. Projenin geliştirilmesinde bu görevi gören hazır hiçbir kütüphane kullanılmamıştır. 
 
+Kısa bir kullanım örneği için izleyebileceğiniz videonun linki: https://youtu.be/PXPw_zzxU48
+
 ## Özellikler
 
 - 5 token türünün gerçek zamanlı syntax vurgulaması
