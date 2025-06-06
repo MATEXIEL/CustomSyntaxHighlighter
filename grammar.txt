@@ -1,0 +1,6 @@
+# Genel olarak gramer yapısı aşağıdan incelenebilir
+program     → statement*
+statement   → 'int' identifier ';' | expression ';'
+expression  → term (('+' | '-') term)*
+term        → factor (('*' | '/') factor)*
+factor      → NUMBER | IDENTIFIER | '(' expression ')'
